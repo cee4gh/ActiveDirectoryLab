@@ -24,6 +24,9 @@ Creating users with PowerShell: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<img src="https://imgur.com/6WAj2rI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <!--
  ```diff
 - text in red
